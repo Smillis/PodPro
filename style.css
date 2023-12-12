@@ -1,0 +1,19 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.searchbar{
+    margin-bottom: 10px;
+}
+
+.Table, td, th{
+    border: 1px solid;
+    margin:auto;
+    width:90%;
+}
+
+
+.tablehead{
+    background-color:lightgray
+}
